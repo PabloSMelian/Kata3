@@ -1,0 +1,5 @@
+dsl Legio
+
+Artifact(groupId = "org.example", version = "1.0.0") kata3
+	Imports
+	Package(mode = ModulesAndLibrariesLinkedByManifest)
